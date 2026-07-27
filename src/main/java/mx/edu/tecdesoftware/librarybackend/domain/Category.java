@@ -1,4 +1,4 @@
-// domain/Category.java
+
 package mx.edu.tecdesoftware.librarybackend.domain;
 
 public class Category {

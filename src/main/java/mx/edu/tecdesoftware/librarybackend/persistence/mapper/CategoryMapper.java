@@ -1,4 +1,4 @@
-// persistence/mapper/CategoryMapper.java
+
 package mx.edu.tecdesoftware.librarybackend.persistence.mapper;
 
 import mx.edu.tecdesoftware.librarybackend.domain.Category;

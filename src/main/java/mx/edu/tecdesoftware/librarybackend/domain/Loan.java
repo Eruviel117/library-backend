@@ -1,4 +1,4 @@
-// domain/Loan.java
+
 package mx.edu.tecdesoftware.librarybackend.domain;
 
 import java.time.LocalDateTime;

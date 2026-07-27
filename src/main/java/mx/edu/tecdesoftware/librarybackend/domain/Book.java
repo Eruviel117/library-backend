@@ -1,4 +1,4 @@
-// domain/Book.java
+
 package mx.edu.tecdesoftware.librarybackend.domain;
 
 public class Book {
