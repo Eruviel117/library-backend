@@ -21,6 +21,9 @@ public class Cliente {
     @Column(name = "telefono")
     private String telefono;
 
+    @Column(name = "password")
+    private String password;
+
     public Cliente() {
     }
 
@@ -38,4 +41,7 @@ public class Cliente {
 
     public String getTelefono() { return telefono; }
     public void setTelefono(String telefono) { this.telefono = telefono; }
+
+    public String getPassword() { return password; }
+    public void setPassword(String password) { this.password = password; }
 }
